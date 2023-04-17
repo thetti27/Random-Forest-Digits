@@ -7,6 +7,7 @@ To run this code, you will need to have Python 3.x installed on your machine alo
 - matplotlib
 - seaborn
 - scikit-learn
+
 You can install these libraries using pip by running the following command in your terminal:
 
 - pip install matplotlib seaborn scikit-learn
